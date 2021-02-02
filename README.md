@@ -2,7 +2,7 @@
 
 TCP and UDP proxy.
 
-This package I wrote for [init-proxyd](https://github.com/x13a/init-proxyd).
+This package I use in [init-proxyd](https://github.com/x13a/init-proxyd).
 
 ## Install
 
